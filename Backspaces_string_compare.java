@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Stack;
-
+//backspaces string compare
 public class Backspaces_string_compare {
 
         public static void main(String args[]) {
