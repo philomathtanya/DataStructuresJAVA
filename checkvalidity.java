@@ -17,7 +17,7 @@ public class checkvalidity {
             m = Math.max(i, m);
         
         if (r == 0) {
-            System.out.println(m);
+            System.out.print(m);
             System.exit(0);
         }
 
